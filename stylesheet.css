@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: hotpink;
+    color: darkred;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: purple;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.happy {
+    border: 3px deeppink;
+}
+
+.sad {
+    border: 3px mediumpurple;
+}
